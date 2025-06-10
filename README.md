@@ -38,3 +38,5 @@ Gosto de criar soluções que funcionam sozinhas e entregam valor sem precisar d
 ---
 
 📌 *"Código é poesia — e eu escrevo versos em Python."*
+
+Primeiro commit;

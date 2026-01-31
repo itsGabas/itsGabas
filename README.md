@@ -1,42 +1,52 @@
-# 👋 Olá, mundo! Sou [Gabas] 🐍
+# Hi, I'm Gabriel Bonamichi 👋
 
-🎯 **Desenvolvedor Python com foco em automação, análise de dados e scraping inteligente**
-
----
-
-## 🚀 Tecnologias que domino
-
-- 🐍 **Python** – Meu idioma nativo para resolver problemas de forma rápida e elegante.
-- 📊 **Pandas** – Manipulação de dados como um ninja: limpo, transformo e analiso.
-- 📈 **NumPy** – Performance e matemática com arrays? É comigo mesmo.
-- 🤖 **Selenium** – Automação de tarefas na web como um robô invisível.
+Data-oriented professional with hands-on experience in **data analysis, data preparation, and reporting**, using **Python and Excel** to clean, structure, and analyze datasets.
 
 ---
 
-## 🧠 Um pouco sobre mim
+## 🔍 Focus Areas
 
-Sou apaixonado por código limpo, automações que economizam horas de trabalho e dados que contam histórias.  
-Gosto de criar soluções que funcionam sozinhas e entregam valor sem precisar de supervisão.
+- **Data Analysis & Preparation**  
+  Working with structured and semi-structured data to ensure accuracy, consistency, and usability.
 
----
+- **Python for Data**  
+  Using Python and Pandas for data cleaning, transformation, and exploratory analysis.
 
-## 💼 O que você vai encontrar por aqui?
+- **Reporting & Insights**  
+  Organizing data into clear CSV and Excel reports to support analysis and decision-making.
 
-- Scripts de **automação com Selenium**
-- Projetos de **análise de dados com Pandas e NumPy**
-- Ferramentas para **web scraping**
-- Dicas e truques para produtividade em **Python**
-
----
-
-## 🌎 Conecte-se comigo
-
-- LinkedIn:
-- Portfólio:
-- Email:
+- **Continuous Learning**  
+  Currently deepening knowledge in **Data Analytics** and **Machine Learning** through practical, project-based training.
 
 ---
 
-📌 *"Código é poesia — e eu escrevo versos em Python."*
+## 🛠️ Tools & Technologies
 
-Primeiro commit;
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Excel**
+- **Git / GitHub**
+- *(Learning)* Scikit-learn
+
+> Some projects were developed with the support of modern tools and AI-assisted workflows, always with a focus on understanding, validating, and applying the results correctly.
+
+---
+
+## 📂 What you'll find here
+
+- Data analysis and data preparation projects  
+- Examples of cleaned and structured datasets  
+- Python scripts focused on data manipulation and reporting  
+- Well-documented projects with clear objectives and outcomes  
+
+---
+
+## 🌐 Connect with me
+
+- **LinkedIn:** https://www.linkedin.com/in/gabriel-bonamichi-aab43b2a8  
+- **Email:** bonamichigabrielfelipe@gmail.com
+
+---
+
+> *Interested in data-driven environments, clear communication of insights, and continuous improvement through data.*

@@ -16,7 +16,7 @@ Data-oriented professional with hands-on experience in **data analysis, data pre
   Organizing data into clear CSV and Excel reports to support analysis and decision-making.
 
 - **Continuous Learning**  
-  Currently deepening knowledge in **Data Analytics** and **Machine Learning** through practical, project-based training.
+  Currently deepening knowledge in **Data Analytics** and **Machine Learning** through practical, project-based training and learning **Java** and **Kotlin** for **Android development**.
 
 ---
 

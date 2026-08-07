@@ -1,6 +1,6 @@
 # Hi, I'm Gabriel Bonamichi 👋
 
-IT Generalist (Infrastructure, Networks & Windows Server) actively transitioning into Backend Development, Data & Cybersecurity, based in Minas Gerais, Brazil 🇧🇷
+IT Generalist (Development, Infrastructure & Networks) actively transitioning into Backend Development, Data & Cybersecurity, based in Minas Gerais, Brazil 🇧🇷
 
 ## 💼 What I do today
 
